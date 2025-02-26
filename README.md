@@ -1,4 +1,4 @@
-# Udemig Eğitim Web Sitesi
+# Udemig Education
 
 Udemig Education, eğitim içeriklerini sergilemek için tasarlanmış modern ve duyarlı bir web sitesidir. Site, temiz bir düzen, profesyonel bir görünüm ve mobil uyumlu yanıt vermeyi garanti eden HTML5, CSS3 ve Bootstrap kullanılarak oluşturulmuştur.
 
