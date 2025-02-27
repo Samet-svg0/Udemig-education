@@ -15,8 +15,9 @@ CSS3: Gelişmiş stil ve düzen tasarımı için.
 Bootstrap: Duyarlı grid sistemi, bileşenleri ve yardımcı programları için.
 
 # Ekran Goruntusu
-![bandicam2025-02-2711-39-36-481-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c7e5addb-dffa-4aca-942f-88102c4ab91d)
 
 
 
+
+![bandicam2025-02-2711-39-36-481-ezgif com-crop](https://github.com/user-attachments/assets/e24d954f-f4af-4033-84ad-c1fb1cad1537)
 
